@@ -1,0 +1,22 @@
+# Requirements for the demo notebooks
+# Useful for MyBinder configuration
+pandas
+numpy
+matplotlib
+jupyter-book
+jupyterlab_launcher>=0.5.0
+seaborn
+little_mallet_wrapper
+altair
+bokeh
+bs4
+requests
+folium
+geopy
+nltk
+text-matcher
+git+https://github.com/maria-antoniak/little-mallet-wrapper.git
+sklearn
+spacy
+regex
+booknlp
