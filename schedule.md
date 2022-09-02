@@ -61,7 +61,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Tue 9/27 - Counting (who counts and for whom)
 - Read: Catherine D’Ignazio and Lauren Klein, *Data Feminism*,[ Chapter 4: “What Gets Counted 
 Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) 
-<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk4-tues.html#/) -->
+	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk4-tues.html#/) -->
 
 #### Thu 9/29 - "Rehumanizing"" Data
 
@@ -69,7 +69,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Complete: [Introduction to Python Basics tutorial]
 - Due: [Homework 3]
 - *In-class practicum*:  [Introduction to Python, continued]
-	<-- -  [In-class slides](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python-continued.ipynb)-->
+	<!-- -  [In-class slides](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python-continued.ipynb) -->
 
 ## Week 5: Making Data
 
@@ -99,7 +99,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 	-  [The Colored Conventions Project](https://coloredconventions.org/)
 	- [Early Print](https://earlyprint.org/)
 	- [Curricle Lens](https://curricle.net/)
-- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk5-tues.md)
+<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk5-tues.md) -->
 
 	
 
@@ -115,7 +115,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 - Read: Scott Weingart, [“The Route of a Text Message” (2019)](https://www.vice.com/en/article/kzdn8n/the-route-of-a-text-message-a-love-story)
 - Read: Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name" (2015)](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
-	<-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-tues.html)-->
+	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-tues.html)-->
 
 #### Thu 10/13 - Web-Scraping
 
@@ -123,7 +123,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md)
 - Before practicum, read: [Preparing for Web-scraping and OpenRefine]
 - *In-class practicum*: [Webscraping and using OpenRefine]
-	<-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-thu.html#/) -->
+	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-thu.html#/) -->
 
 ## FALL RECESS
 
@@ -160,7 +160,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/module
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/8132/modules/items/319151), especially pages 113-120.
 - Due: [Homework for Week 8]
 - *In-class practicum*: [Text analysis and intro to git]
-	- [In-class slides]<--(https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)-->
+	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)-->
 
 
 ## Week 9: Text Analysis
@@ -189,14 +189,14 @@ Election Day - GO VOTE!
 - Skim through: Crystal Lee, Tanya Yang, Gabrielle Inchoco, Graham Jones, and Arvind Satyanarayan ["Viral Visualizations:How Coronavirus Skeptics Use OrthodoxData Practices to Promote Unorthodox Science Online" (2021)](https://princeton.instructure.com/courses/8132/modules/items/319161) 
 - Read: Georgia Luipi, [“Data Humanism: The Revolutionary Future of Data Visualization”
 (2017)](https://www.printmag.com/post/data-humanism-future-of-data-visualization)
-	<-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-tues.md) -->
+	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-tues.md) -->
 
 #### Thu 11/17 - Networks
 - Read: Scott Weingart, ["Demystifying Networks" (2011)](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: [**Close Reading of a Data Visualization**]<-- (https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/close-reading-data-visualization-assignment.md) -->
 - *In-class practicum*: Maps and visualization: Working with matplot + Altair
-	<-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md) -->
+	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md) -->
 
 ## THANKSGIVING BREAK
 
@@ -209,15 +209,15 @@ Election Day - GO VOTE!
 #### Tue 11/29 - DH and global information infrastructures
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319159)
 - Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
-<--- Link: [Final Project Resources](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
-	<--- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-tues.md) -->
+<!--- Link: [Final Project Resources](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
+	<!--- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-tues.md) -->
  
 #### Thu 12/1 - Sustainable DH? Glitches, Hacks, and Digital Ecologies
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/8132/modules/items/319154)
 - Read: Kashmir Hill, ["How an internet mapping glitch turned a random Kansas farm into a digital hell" (2016)](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)
 - *In-class practicum*: Keep working on projects. Review your data preservation plan
-<--- [REVIEW: Final project resources document](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
-	<-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-thu.md) -->
+<!--- [REVIEW: Final project resources document](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
+	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-thu.md) -->
 
 
 ## Week 12: The Futures of Digital Humanities 
@@ -228,7 +228,7 @@ Election Day - GO VOTE!
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
 - Due: Presentation of final projects
 	- [Guidelines for presentations]
-	<-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) -->
+	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) -->
 <!--	- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) --> 
 
 #### Thu 12/8
