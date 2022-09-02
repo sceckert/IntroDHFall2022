@@ -7,31 +7,39 @@ permalink: /policies/
 
 ### REQUIRED TEXTS ## 
 
-Almost all the readings will be available online through either our course website or Canvas, with the possible exception of Ted Underwood’s *Distant Horizons: Digital Evidence and Literary Change* (University of Chicago, 2019). The book should be available at Labyrinth Books [https://www.labyrinthbooks.com/product/9780226612836](https://www.labyrinthbooks.com/product/9780226612836) or on Powells, Amazon, etc. If you experience any difficulty in obtaining a copy of this text, or if purchasing the book poses any financial burden, please let me know and we can make arrangements.
+Almost all the readings will be available online through either our course website or Canvas.
+
+My one recommended reading is Ted Underwood’s *Distant Horizons: Digital Evidence and Literary Change* (University of Chicago, 2019). We'll have PDF excerpts available, but I highly encourage you to find a print copy. The book should be available at Labyrinth Books [https://www.labyrinthbooks.com/product/9780226612836](https://www.labyrinthbooks.com/product/9780226612836) or on Powells, Amazon, etc. If you experience any difficulty in obtaining a copy of this text, or if purchasing the book poses any financial burden, please let me know and we can make arrangements.
 
 ### ATTENDANCE & PARTICIPATION
 
 As this is a discussion-based seminar, active participation is essential.  Part of your responsibility to the seminar is to arrive on time, to complete the reading and exercise, and to be prepared to engage in class discussions and activities. I understand that life happens, especially in the middle of a global pandemic. If you must miss class, please try to let me know in advance. You're allowed to miss up to three classes––no questions asked. Any more absences may affect your grade, with the exception, of course, of medical or personal emergencies (e.g you or a loved one getting COVID-19). 
 
-Since this an exceptional academic year, if you find yourself struggling, please get in touch with me as soon as possible and we will try to work out accommodations.
+University study during a pandemic presents an added challenge: if you find yourself struggling, please get in touch with me as soon as possible and we will try to work out accommodations.
+
+### COVID PROTOCOOL
+
+If you test positive for COVID, please stay home! Let me know and we can make arrangements for some kind of semi-hybrid option. 
 
 
-### (REMOTE) CLASSROOM CULTURE
+### CLASSROOM CULTURE
 
-**Zoom Etiquette**: So that we can better facilitate class discussions and thinking together, I'll ask that we try to follow a few guidelines:
+**Etiquette**: So that we can better facilitate class discussions and thinking together, I'll ask that we try to follow a few guidelines:
 
-- Please use your camera if your internet connection allows it
-- Please use headphones on our Zoom call if possible to reduce background noise
-- Try not not to speak over one another (but if it does happen, be polite)
-- Use the chat and hand-raising tools on Zoom to indicate that you'd like to speak, if there's an active conversation
-- Respond to and acknowledge your peers’ contributions
+- Aim to contribute thoughtfully to discussion at least once every class. 
+	- I know speaking in front of others can be intimidating. If you are uncomfortable speaking in front of your peers, or consider class participation to be a struggle for you for any reason, please bring this up in office hours early in the semester so that we can work together to improve your skills and set some goals.
+- You should expect to arrive on time and ready to engage in class discussions and exercises.
+- During discussion:
+	- Listen and respond directly to your classmates (by name). Look at them, not just me.
+	- Respond to and acknowledge your peers’ contributions
+	- When making a claim, always bring in specific examples from our readings or discussion to support your claim.
 - *Take space / make space*
 	- if you feel you contributed a lot, take a step back and make space for others 
 	- if you have not contributed yet, try and get more engaged.
 
 ***Etiquette (Classroom & Email):*** Refer to your classmates by name. Try not to make assumptions about gender pronouns. Whenever you email me or a classmate, keep it cordial. Include a greeting and your name at the end.
 
-**Distractions & Remote-Learning:** Because we will be on our screens in this course, it's important to create an atmosphere that minimizes distraction. During our class sessions––whether we're in discussion or in group or solo work––please close all browser windows except those with our course materials. Please, no scrolling through Instagram, checking your email, or texting.
+**Distractions & Learning on Laptops:** Because we will be on our screens in this course, it's very important to create an atmosphere that minimizes distraction. During our class sessions––whether we're in discussion or in group or solo work––please close all browser windows except those with our course materials. Please, no scrolling through Instagram, checking your email, or messaging your friends.
 
 ### LATE WORK
 You may have up to 3 extensions, provided that you request them in advance. For weekly homework, since the assignments build upon one another, you may have up to 48 hrs to turn them in. Assignments turned in outside these parameters will be penalized by 10% each day it is late.

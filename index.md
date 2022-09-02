@@ -11,19 +11,21 @@ Slow Data</h1>
 
 <h2 style="text-align: center"> HUM 346 / ENG 256 </h2>
 
+<h3 style="text-align: center">  Fall 2022 </h3>
+
 ### Course Logistics
 
-Class Meetings: Tuesday and Thursday 1:30-2:50pm
+Class Meetings: Tuesday and Thursday 9:30-10:50am
 
-Course Location: Zoom ([see Canvas site for link](https://princeton.instructure.com/courses/2364/external_tools/290))
+Course Location: Center for Digital Humanities, Firestone Library Floor B
 
 Instructor: Dr. Sierra Eckert
 
 Email: sceckert@princeton.edu
  
-Office Hours: TBD and by appointment (see [Zoom link on course Canvas site](https://princeton.instructure.com/courses/2364/external_tools/290))
+Office Hours: Tuesdays and Thursdays 11AM-noon TBD and by appointment (see [Zoom link on course Canvas site](https://princeton.instructure.com/courses/8132/external_tools/1960))
 
-Course Website: [https://sceckert.github.io/IntroDHSpring2021/](https://sceckert.github.io/IntroDHSpring2021)
+Course Website: [https://sceckert.github.io/IntroDHFall2022/](https://sceckert.github.io/IntroDHFall2022)
 
 ### Course Description
 

@@ -15,7 +15,7 @@ Final Project | 35% |
 
 ### In-Class Participation 20%
 
-See the [Course Policies](https://sceckert.github.io/IntroDHSpring2021/policies) for a description of what active participation looks like.
+See the [Course Policies](https://sceckert.github.io/IntroDHFall2022/policies) for a description of what active participation looks like.
 
 ### Weekly Readings, Assignments and Coding Exercises 15% 
 
