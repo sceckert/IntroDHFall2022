@@ -194,7 +194,7 @@ Election Day - GO VOTE!
 #### Thu 11/17 - Networks
 - Read: Scott Weingart, ["Demystifying Networks" (2011)](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
-- Due: [**Close Reading of a Data Visualization**]<-- (https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/close-reading-data-visualization-assignment.md) -->
+- Due: [**Close Reading of a Data Visualization**]<!-- (https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/close-reading-data-visualization-assignment.md) -->
 - *In-class practicum*: Maps and visualization: Working with matplot + Altair
 	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md) -->
 
