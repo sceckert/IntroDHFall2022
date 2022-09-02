@@ -19,7 +19,7 @@ permalink: /schedule/
 - Read: Daniel Rosenberg, “Data before the Fact” in “Raw Data” is an Oxymoron (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/files/1617344?module_item_id=319165)
 - Read: Edith Rickert, [“To Skeptics” and “Introductory: Reasons and Methods,” in New Methods for 
 Literary Study (1927)](https://princeton.instructure.com/courses/8132/files/1617341?module_item_id=319163)
-- Due: [Homework 0:](https://github.com/sceckert/IntroDHFall2022/blob/main/_week1/Homework-0.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
+- Due: [Homework 1:](https://github.com/sceckert/IntroDHFall2022/blob/main/_week1/Homework-1.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
 - *In-class practicum*: Counting by hand
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk1-thu.html#/) -->
 
@@ -34,7 +34,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Thu 9/15 - Anatomy of Code
 
 - Read: Paul Ford, ["What Is Code?" parts 1 & 2 (2015)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-- Due: [Homework 1]
+- Due: [Homework 2]
 - *In-class practicum*: Introduction to the command line
 
 ## Week 3: Classification & Categorization
@@ -52,7 +52,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Read: Karl W. Broman and Kara H. Woo, [“Data Organization in Spreadsheets,” (2018)](https://princeton.instructure.com/courses/8132/modules/items/319152)
 - Read: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). Choose one standard to read about.
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data)
-- Due: [Homework 2]
+- Due: [Homework 3]
 - *In-class practicum*: Introduction to metadata + Python
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk3-thu.html#/2) -->
 
@@ -67,7 +67,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 - Complete: [Introduction to Python Basics tutorial]
-- Due: [Homework 3]
+- Due: [Homework 4]
 - *In-class practicum*:  [Introduction to Python, continued]
 	<!-- -  [In-class slides](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python-continued.ipynb) -->
 
@@ -143,7 +143,7 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 
 - Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319164)
-- Due: [Homework for Week 7]
+- Due: [Homework 5]
 - *In-class practicum*: Writing a project proposal + [Exploratory data analysis]
 	
 ## Week 8: Cultural Analytics 
@@ -158,7 +158,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/module
 
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319169)
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/8132/modules/items/319151), especially pages 113-120.
-- Due: [Homework for Week 8]
+- Due: [Homework 6]
 - *In-class practicum*: [Text analysis and intro to git]
 	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)-->
 
