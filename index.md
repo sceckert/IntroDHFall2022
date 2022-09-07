@@ -17,13 +17,13 @@ Slow Data</h1>
 
 Class Meetings: Tuesday and Thursday 9:30-10:50am
 
-Course Location: Center for Digital Humanities, Firestone Library Floor B
+Course Location: Center for Digital Humanities, Firestone Library Floor B, 9H
 
 Instructor: Dr. Sierra Eckert
 
 Email: sceckert@princeton.edu
  
-Office Hours: Tuesdays and Thursdays 11AM-noon TBD and by appointment (see [Zoom link on course Canvas site](https://princeton.instructure.com/courses/8132/external_tools/1960))
+Office Hours: Tuesdays and Thursdays 11AM-noon in Firestone Library, Floor B 9H.6
 
 Course Website: [https://sceckert.github.io/IntroDHFall2022/](https://sceckert.github.io/IntroDHFall2022)
 
