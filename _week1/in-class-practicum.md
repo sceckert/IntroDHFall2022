@@ -1,6 +1,6 @@
 ## In-Class Practicum
 
-Thursday, Feb 4, 2021
+Thursday, Sep 8, 2022
 
 ## Sentences in Conrad and Norris
 

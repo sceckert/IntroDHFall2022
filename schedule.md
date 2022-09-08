@@ -12,7 +12,7 @@ permalink: /schedule/
 
 - Introductions
 - Explore [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com) (refresh the website several times)
-<!-- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk1-tues.html) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk1-tues.html) -->
 
 #### Thu 9/8 - What does humanities data look like
 
@@ -20,8 +20,8 @@ permalink: /schedule/
 - Read: Edith Rickert, [“To Skeptics” and “Introductory: Reasons and Methods,” in New Methods for 
 Literary Study (1927)](https://princeton.instructure.com/courses/8132/files/1617341?module_item_id=319163)
 - Due: [Homework 1:](https://github.com/sceckert/IntroDHFall2022/blob/main/_week1/Homework-1.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
-- *In-class practicum*: Counting by hand
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk1-thu.html#/) -->
+- *In-class practicum*: [Counting by hand](https://github.com/sceckert/IntroDHFall2022/blob/main/_week1/in-class-practicum.md)
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk1-thu.html#/)
 
 ## Week 2: Origins and Histories of “Digital Humanities”
 
