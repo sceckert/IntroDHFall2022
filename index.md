@@ -23,7 +23,7 @@ Instructor: Dr. Sierra Eckert
 
 Email: sceckert@princeton.edu
  
-Office Hours: Tuesdays and Thursdays 11AM-noon in Firestone Library, Floor B 9H.6
+Office Hours: Tuesdays and Thursdays 1:00PM-2:00PM in Firestone Library, Floor B 9H.6 and by appointment Wednesday afternoons on Zoom.
 
 Course Website: [https://sceckert.github.io/IntroDHFall2022/](https://sceckert.github.io/IntroDHFall2022)
 
