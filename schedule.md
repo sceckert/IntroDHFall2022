@@ -12,7 +12,7 @@ permalink: /schedule/
 
 - Introductions
 - Explore [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com) (refresh the website several times)
-	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk1-tues.html) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk1-tues.html) 
 
 #### Thu 9/8 - What does humanities data look like
 
@@ -25,10 +25,11 @@ Literary Study (1927)](https://princeton.instructure.com/courses/8132/files/1617
 
 ## Week 2: Origins and Histories of “Digital Humanities”
 
-#### Tue 9/13  - Origin Stories
+#### Tue 9/13  - Origin Stories, Cultural Codes
 
 - Read: Tara McPherson, [“Why Are the Digital Humanities So White? or Thinking the Histories 
 of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/20df8acd-9ab9-4f35-8a5d-e91aa5f4a0ea#ch09) *Debates in the Digital Humanities*, ed. by Matthew K. Gold (2012)
+- Ruha Benjamin, ["Introduction: The New Jim Code"](https://princeton.instructure.com/courses/8132/files/1637591?module_item_id=327205) from *Race after Technology*(2019) p. 1-32
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk2-tues.html#/) -->
 
 #### Thu 9/15 - Anatomy of Code
