@@ -8,7 +8,7 @@ permalink: /resources/
 
 ## [Course Glossary](https://princeton.instructure.com/courses/8132/pages/course-glossary)
 
-Please follow [this link]((https://princeton.instructure.com/courses/8132/pages/course-glossary) to access the GoogleDoc containing our course glossary. Please post definitions (you can quote snippets from our readings) to our glossary
+Please follow [this link](https://princeton.instructure.com/courses/8132/pages/course-glossary) to access the GoogleDoc containing our course glossary. Please post definitions (you can quote snippets from our readings) to our glossary
 
 
 ## Lessons Overview
