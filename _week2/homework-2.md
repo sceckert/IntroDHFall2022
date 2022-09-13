@@ -59,4 +59,4 @@ Write down the commands you would input into the Terminal in order to do the fol
 ## 4. Reflection
 
 
-Look back at what you've learned about the structure of the Unix shell and the few commands you learned. Write a few sentences reflecting on the following: How does Unix work? What was it like to interact with the computer through the command line? What do you notice about thew way that bash/zsh language is structured? Are there any connections that we might draw between Tara McPherson's essay from Tuesday or Paul Bloomberg's article on the structure of code?
+Look back at what you've learned about the structure of the Unix shell and the few commands you learned. Write a few sentences reflecting on the following: How does Unix work? What was it like to interact with the computer through the command line? What do you notice about thew way that bash/zsh language is structured? Are there any connections that we might draw between Tara McPherson's essay from Tuesday or Paul Ford's article on the structure of code?
