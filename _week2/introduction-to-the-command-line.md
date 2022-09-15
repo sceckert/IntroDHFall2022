@@ -251,4 +251,4 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 ## In-Class Exercises
 
-Open the [in-class exercises](https://github.com/sceckert/IntroDHFall22/blob/main/_week2/in-class-exercises.md) and work through them with your partner.
+Open the [in-class exercises](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/in-class-exercises.md) and work through them with your partner.
