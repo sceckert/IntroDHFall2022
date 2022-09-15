@@ -94,7 +94,7 @@ Your directory structure should look like:
 4. `cd` into the directory called "practice" [**What should we type?**]
 5. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace:
 ` touch ../an_empty_file.txt` 
-[*NOTE: if you are using Windows, your slash will point the other way!*]
+[*NOTE: if you are using Windows, your command should be ni ..\an_empty_file.txt. The command `ni` is used instead of `touch` and the slash will point the other way!*]
 6. `cd`  back into "workspace." 
 7. Use `echo` and `>` to create a text file: 
 ``` 
