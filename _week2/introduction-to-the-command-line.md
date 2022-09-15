@@ -175,29 +175,13 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 What if we wanted to search for more than one term?
 
-🚨🚨🚨UPDATED:🚨🚨🚨
 
-Instead of using the file flag (below), we can separate a list of key search terms like this:
+We can separate a list of key search terms like this:
 
 1. Type: `grep "hi\|hey" -i --color -n  greetings.txt`
 2. Notice that we can add additional search terms using the `\|` symbol to separate them
 
-DO NOT USE:
 
-<s> **`grep -f`** allows us to search patterns from a file 
-
-1. Use `echo` to make a list of words
-```
-echo """  
-hi
-hey
-""" >> list_of_words.txt
-```
-2. `cat list_of_words.txt` to make sure our words are there
-3. Now, let's use that list to look for only the lines that contain "hi" or "hey" in our greetings file 
-`grep -f list_of_words.txt -n --color greetings.txt`
-	- What happened?
-4. Let's try again, this time, telling our search to ignore cases `grep -f list_of_words.txt -n -i --color greetings.txt` </s>
 
 ---
 
