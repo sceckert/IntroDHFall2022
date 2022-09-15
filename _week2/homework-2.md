@@ -48,7 +48,7 @@ Write down the commands you would input into the Terminal in order to do the fol
 2. ...then, tell me where I am
 3. Move from your directory to a directory one level down called "sample-directory" ...
 4. ...and then list the contents of that directory.
-5. Display all of contents of Roosevelt's 1933 address from last class's corpus of [U.S. Inaugural Addresses](https://melaniewalsh.github.io/Intro-Cultural-Analytics/_downloads/b0f5605a8148b7b96b46cb1946f6d34e/US_Inaugural_Addresses.zip) (You may have to first download and unzip the file, if you didn't get a chance to do it last Thursday).
+5. Display all of contents of Roosevelt's 1933 address from lthe corpus of [U.S. Inaugural Addresses](https://melaniewalsh.github.io/Intro-Cultural-Analytics/_downloads/b0f5605a8148b7b96b46cb1946f6d34e/US_Inaugural_Addresses.zip) (You will have to first download and unzip the file).
 6. Display just the first 10 lines of that same Roosevelt speech.
 7. Copy the text file of the address you have chosen to a new directory called "intro-DH"
 8. Use the manual command to look up the commands "wc" and "grep"  (Hint: in Power)

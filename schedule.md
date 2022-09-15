@@ -30,7 +30,7 @@ Literary Study (1927)](https://princeton.instructure.com/courses/8132/files/1617
 - Read: Tara McPherson, [“Why Are the Digital Humanities So White? or Thinking the Histories 
 of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/20df8acd-9ab9-4f35-8a5d-e91aa5f4a0ea#ch09) *Debates in the Digital Humanities*, ed. by Matthew K. Gold (2012)
 - Ruha Benjamin, ["Introduction: The New Jim Code"](https://princeton.instructure.com/courses/8132/files/1637591?module_item_id=327205) from *Race after Technology*(2019) p. 1-32
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk2-tues.html#/) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk2-tues.html#/)
 
 #### Thu 9/15 - Anatomy of Code
 
@@ -51,9 +51,9 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Thu 9/22 - What *is* Metadata?
 
 - Read: Karl W. Broman and Kara H. Woo, [“Data Organization in Spreadsheets,” (2018)](https://princeton.instructure.com/courses/8132/modules/items/319152)
-- Read: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). Choose one standard to read about.
-- Explore: [datasets from The Pudding](https://github.com/the-pudding/data)
-- Due: [Homework 3]
+- Skim: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). -- (Note: this is a long manuelChoose one standard to read about.
+- Explore: [datasets from The Pudding](https://github.com/the-pudding/data) and datasets from our [course's curated list of datasets](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/datasets.md)
+- Due: [Homework 3](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/homework-3.md)
 - *In-class practicum*: Introduction to metadata + Python
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk3-thu.html#/2) -->
 
