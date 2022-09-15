@@ -218,30 +218,11 @@ What if we wanted to search for more than one term?
 
 
 
-🚨🚨🚨UPDATED:🚨🚨🚨
-
-Instead of using the file flag (below), we can separate a list of key search terms like this:
+We can separate a list of key search terms like this:
 
 1. Type: `gc greetings.txt | Select-String -Pattern "(hi)|(hey)"` 
 2. Notice that we can add additional search terms using the `|` symbol and parentheses to separate them
 
-
-<s>**`gc [filename ]| Select-String -Pattern`** can take a file as an input!
-
-1. Use `echo` to make a list of words
-```
-echo """  
-hi
-hey
-""" >> list_of_words.txt
-```
-2. `cat list_of_words.txt` to make sure our words are there
-3. Now, let's use that list to look for only the lines that contain "hi" or "hey" in our greetings file (we're not going to look for the contextual lines) `gc greetings.txt | Select-String -Pattern list_of_words.txt -AllMatches`:
-4. Let's try again, this time, let's tell our search to be case sensitive `gc  greetings.txt | Select-String -Pattern "Intro DH" -AllMatches -caseSensitive`
-	- What happened?</s>
-
-
----
 ---
 
 ### Pipes (`|`),  Wildcards (`*`), and Redirects (`>`)
