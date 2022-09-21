@@ -71,7 +71,7 @@ We are going to be working with plain text files. While you can certainly use de
 
 ## PART 3: Working with Python in Jupyter Notebooks
 
-1.  Read Melanie Walsh's ["How To Use Jupyter Notebooks" (2020)](https://github.com/melaniewalsh/Intro-Cultural-Analytics/blob/master/book/Python/How-to-Use-Jupyter-Notebooks.ipynb)
+1.  Read Melanie Walsh's ["How To Use Jupyter Notebooks" (2020)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html)
 2.  Launch Anaconda Navigator (see [Step 2](#step-2-launch-anaconda) above)
 3. Click on the "Launch" button under JupyterLab ![image](../_images/open-jupyterlab.png)
 4. Finally, create a new Jupyter notebooks by clicking on the Python 3 icon under "Notebook" ![image](../_images/create-new-notebook.png)
