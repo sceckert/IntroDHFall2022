@@ -65,7 +65,7 @@ You should see the following Anaconda Navigator menu:
 
 We are going to be working with plain text files. While you can certainly use default text applications on your machines, such as Notepad (Windows) or TextEditor (Windows), it helps to have an editor better suited to handling text files that include some code. BBEDit and Atom are both good open-source text editors. Choose one to install: 
 
-- To download BBEDit, go to the download page: [https://www.barebones.com/products/bbedit/]index.html and select the free version
+- To download BBEDit, go to the download page: [https://www.barebones.com/products/bbedit/index.html] and select the free version
 - To download Attom, visit the download page, and then follow [the download instructions](https://flight-manual.atom.io/getting-started/sections/installing-atom/) for your operating system.
 
 
