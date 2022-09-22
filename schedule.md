@@ -45,13 +45,13 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Read: Geoffrey Bowker and Susan Leigh Star, [Chapter 1,  *Sorting Things Out: Classification  and Its Consequences* (1999)]((https://princeton.instructure.com/courses/8132/modules/items/319153)) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319153)
 - Skim Chapter 2, *Sorting Things Out* [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319157)
 - Read: Maris Elena Duarte and Miranda Belarde-Lewis,  [“Imagining: Creating Spaces for Indigenous Ontologies" (2015)](https://princeton.instructure.com/courses/8132/modules/items/319156) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319156)
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk3-tues.html#/) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk3-tues.html#/)
 
 
 #### Thu 9/22 - What *is* Metadata?
 
 - Read: Karl W. Broman and Kara H. Woo, [“Data Organization in Spreadsheets,” (2018)](https://princeton.instructure.com/courses/8132/modules/items/319152)
-- Skim: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). -- (Note: this is a long manuelChoose one standard to read about.
+- Skim: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). -- (Note: this is a long manual: Choose one standard to read about.
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data) and datasets from our [course's curated list of datasets](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/datasets.md)
 - Due: [Homework 3](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/homework-3.md)
 - *In-class practicum*: Introduction to metadata + Python
