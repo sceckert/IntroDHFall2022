@@ -17,6 +17,6 @@ nltk
 text-matcher
 git+https://github.com/maria-antoniak/little-mallet-wrapper.git
 sklearn
-spacy
+#spacy
 regex
-booknlp
+#booknlp

@@ -55,7 +55,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data) and datasets from our [course's curated list of datasets](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/datasets.md)
 - Due: [Homework 3](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/homework-3.md)
 - *In-class practicum*: Introduction to metadata + Python
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk3-thu.html#/2) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk3-thu.html)
 
 ## Week 4: Locating Data
 
