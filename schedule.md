@@ -67,7 +67,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 #### Thu 9/29 - "Rehumanizing"" Data
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
-- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)  | [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/_week4/introduction-to-python.ipynb)]
+- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/_week4/introduction-to-python.ipynb)]
 - Due: [Homework 4](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/_week4/homework-4.ipynb)]
 - *In-class practicum*:  [Introduction to Python, continued](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python-continued.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/_week4/introduction-to-python-continued.ipynb)]
 	<!-- -  [In-class slides](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python-continued.ipynb) -->
