@@ -62,7 +62,8 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Tue 9/27 - Counting (who counts and for whom)
 - Read: Catherine D’Ignazio and Lauren Klein, *Data Feminism*,[ Chapter 4: “What Gets Counted 
 Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) 
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk4-tues.html#/) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk4-tues.html#/)
+	- Mimi Onuoha's ["On Missing Data Sets" (2015)](https://github.com/MimiOnuoha/missing-datasets)
 
 #### Thu 9/29 - "Rehumanizing"" Data
 
