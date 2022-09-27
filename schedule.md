@@ -66,6 +66,8 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 #### Thu 9/29 - "Rehumanizing"" Data
 
+‼️ NOTE: Dr. Ecket is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
+
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 - Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)]
 - Due: [Homework 4](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/homework-4.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/homework-4.ipynb)]

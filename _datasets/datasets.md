@@ -13,12 +13,15 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 
 ### Specific Topics:
 
+- A collection of [annotations from Jacques Derrida's library](https://dataspace.princeton.edu/handle/88435/dsp01gf06g579z)
+- A collection of [tales about the Virgin Mary in Ethiopia, Eritrea, and Egypt from 1300 - the present](https://zenodo.org/record/6909569) 
 - [A collection of metadata for 2,000 novels published between 1660 and 1850](https://github.com/earlynovels/) created as a part of the [Early Novels Database (END](https://earlynovels.github.io/) 
 	- Full [dataset](https://github.com/earlynovels/end-dataset)
 	- Small collection of [metadata about 25 novels](https://github.com/earlynovels/digital-collection) and [full-texts for those 25 novels](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts)
 - [A collection of borrowing records from an English-language lending-library in Paris in the 1920s-1930s](https://shakespeareandco.princeton.edu/about/data/) - see the [Shakespeare and Company dataset](https://shakespeareandco.princeton.edu/about/data/) and project documentation
 - [A collection of 40,245 records of art sales from the stock books of NYC art dealer M. Knoedler & Co.(1872-1970)](https://github.com/thegetty/provenance-index-csv/tree/master/knoedler)
 	- There's also a smaller sub collection of this data (4,100 records) created by Matthew Lincoln, downloadable [here](https://github.com/mdlincoln/mapping-knoedler-palladio#introduction-to-the-workshop-data)
+- A dataset from the [White House tapes of the Nixon Administration, 1971-1973](https://www.archives.gov/open/nixon/37-wht-dataset-conversationlist.html)
 - [A collection of items from Princeton University Art Museum](https://artmuseum.princeton.edu/) datasets
 	- [Data from the Princeton Art Museum](https://github.com/Princeton-University-Art-Museum/puam-api-docs) is available via an API (an application programming interface). For instructions on how to access the interface through specific URL addresses, see [the project overview page](https://github.com/Princeton-University-Art-Museum/puam-api-docs). The data is available in JSON -- short for JavaScript Object Notation––format.
 	- Links to [zip file with sample PUAM collection data](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/Princeton-Art-Museum-Datasets.zip?raw=True) (created by Dan Brennan, PUAM web developer), which include:
