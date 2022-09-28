@@ -111,7 +111,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 - Read: Heather Krause, [“Data Biographies: Getting to Know your Data” (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 - Due: [**Data Biography**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/data-biography-assignment.md)
-- *In-class practicum*: [Working with data in Python, continued]
+- *In-class practicum*: [Working with data in Python, continued](https://github.com/sceckert/IntroDHFall2022/blob/main/_week5/python-continued.ipynb) [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week5/_week5/python-continued.ipynb)]
 
 ## Week 6: The Materiality of the Digital
 

@@ -4,7 +4,7 @@
 > "Data sets are the results of their means of collection."   
 > –– Mimi Onuoha, ["The Point of Collection"](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa)
 
-For this assignment, you're going to be writing a short "biography" of a humanities dataset. Like a traditional biography,  a data biography is a narrative that recounts the origins, life, and death of a dataset––along with any important events connected to that dataset the way. 
+For this assignment, you're going to be writing a short "biography" of [a humanities dataset](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/datasets.md). Like a traditional biography,  a data biography is a narrative that recounts the origins, life, and death of a dataset––along with any important events connected to that dataset the way. 
 
 The dataset you choose for this assignment can be be a dataset that you're interested in working later, or simply a dataset that piqued your interest––I've included a list below of some possible datasets you might consider.
 
