@@ -121,6 +121,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Read: Scott Weingart, [“The Route of a Text Message” (2019)](https://www.vice.com/en/article/kzdn8n/the-route-of-a-text-message-a-love-story)
 - Read: Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name" (2015)](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
 - Read: Jill Lepore, "The Cobweb" (2015) [Canvas PDF](https://princeton.instructure.com/courses/8132/files?preview=1617340)
+	- Mini-exercise: explore the [history of Google's home-page with the WayBack Machine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/mini-exercise-using-the-wayback-machine.md)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-tues.html)-->
 
 #### Thu 10/13 - Web-Scraping
@@ -128,9 +129,9 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Read: Brian Kernighan, ["The World Wide Web,"](https://princeton.instructure.com/courses/8132/files?preview=1714222) from *D is for Digital* (2011) [Don't be intimidated by the length of the PDF -- a lot of the reading is an extended "glossary" of terms at the back]
 - Read: Jeffrey Veen,[ “A Brief History of HTML” (1997)](https://web.archive.org/web/20160312112434/https:/www.wired.com/1997/04/a-brief-history-of-html/)
 - Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md)
-- Before practicum, read: [Preparing for Web-scraping and OpenRefine]
-- *In-class practicum*: [Webscraping and using OpenRefine]
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-thu.html#/) -->
+- Before practicum, read: [Preparing for Web-scraping and OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md)
+- *In-class practicum*: [Webscraping and using OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/introduction-to-webscraping-and-open-refine.md)
+	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-thu.html#/) -->
 
 ## FALL RECESS
 
