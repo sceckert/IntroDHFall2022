@@ -54,7 +54,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Skim: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://princeton.instructure.com/courses/8132/files/1617346?module_item_id=319166). -- (Note: this is a long manual: Choose one standard to read about.
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data) and datasets from our [course's curated list of datasets](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/datasets.md)
 - Due: [Homework 3](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/homework-3.md)
-- *In-class practicum*: Introduction to metadata + Python
+- *In-class practicum*: [Introduction to metadata + Python](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/introduction-to-metadata.ipynb)
 	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk3-thu.html)
 
 ## Week 4: Locating Data
