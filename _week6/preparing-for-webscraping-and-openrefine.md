@@ -21,7 +21,7 @@ For example:
 ```
 <h1> This is a heading!</h1>
 <p> This is a paragraph</p>
-<p> This is a paragraph with a <a href="https://sceckert.github.io/IntroDHSpring2021/">link to our course webpage</a> in it.</p>
+<p> This is a paragraph with a <a href="https://sceckert.github.io/IntroDHFall2022/">link to our course webpage</a> in it.</p>
 ```
 
 Some common tags you might see: 
@@ -33,11 +33,11 @@ Some common tags you might see:
 `<img>`: the image tag
 `<a href="url-to-link-her"> `: a tag with a URL link
 
-HTML elements can be nested, like in our example where we have a link `<a>` nested in a paragraph (`<p>`) tag: `<p> This is a paragraph with a <a href="https://sceckert.github.io/IntroDHSpring2021/">link to our course webpage</a> in it.<p>` 
+HTML elements can be nested, like in our example where we have a link `<a>` nested in a paragraph (`<p>`) tag: `<p> This is a paragraph with a <a href="https://sceckert.github.io/IntroDHFall2022/">link to our course webpage</a> in it.<p>` 
 
 ### Let's look at some HTML!
 
-Open up a web browser and navigate to our main course webpage: [https://sceckert.github.io/IntroDHSpring2021/](https://sceckert.github.io/IntroDHFall2022/).
+Open up a web browser and navigate to our main course webpage: [https://sceckert.github.io/IntroDHFall2022/](https://sceckert.github.io/IntroDHFall2022/).
 
 Now, let's look under the hood. Follow the instructions for your web browser below:
 
@@ -124,7 +124,7 @@ How to get your token:
 1. First, sight up here: https://genius.com/api-clients. (You'l be redirected to Sign up for a Genius Account --- sign up for the account)/
 ![images](../_images/Genius-login.png)
 2. Click "New API Client"
-3. You'll be prompted to fill out information about the app. Put "Song Lyrics Project” for the “App Name” and the URL for our course website “https://sceckert.github.io/IntroDHSpring2021/”
+3. You'll be prompted to fill out information about the app. Put "Song Lyrics Project” for the “App Name” and the URL for our course website “https://sceckert.github.io/IntroDHFall2022/”
 4. Click Save
 5. You'll be presented with 2 keys. Click "Generate Access Token”. You will then see a "Client Access Token" -- copy and save this key somewhere you'll be able to find in class!! We'll be using it in class. 
 
@@ -133,16 +133,22 @@ How to get your token:
 
 ![images](../_images/OpenRefine.png)
 
-OpenRefine is a  open-source application for sorting, cleaning data, and building datasets. It has the very handy built-in capacity to interact with  APIs to let us create scripts that let us computationally download data from the web into a spreadsheet. 
+OpenRefine is an open-source application for sorting, cleaning data, and building datasets. It has the very handy built-in capacity to interact with  APIs to let us create scripts that let us computationally download data from the web into a spreadsheet. 
 
 OpenRefine is an application that runs in a web browser (like Jupyter notebooks and JupyterLab) *but* it stores all of your data, and data transformations locally––you're only ever interacting with the web when you are calling up a URL to download. We'll be learning more about what OpenRefine can do in class, but for now, follow the instructions below to download the program. 
 
 ### Download OpenRefine
 
 1. Navigate to the OpenRefine [download page](https://openrefine.org/download.html)
-2. Follow the instructions to download the OpenRefine (version 3.4.1) kit for your operating system. This will download the app installer for your operating system
+2. Follow the instructions to download the OpenRefine (version 3.6.2) kit for your operating system. This will download the app installer for your operating system
+3. Open OpenRefine by double clicking on the downloaded .dmg file
 
 - *NOTE*: OpenRefine requires the software Java. If you are on Windows, you will need to download a different version depending on whether or not you have Java. To check whether you have Java, open up PowerShell (your command line interface) and type `java -version`. You will either get an output with the line `java version "your version number"` or nothing. If nothing is returned, this means you don't have Java on your machine.
+
+- *NOTE:* If you're on a Mac -- "When you double-click the OpenRefine icon to start the application on your Mac for the first time, you may see the notification 'OpenRefine cannot be opened because the developer cannot be verified' or the even more ominous "macOS cannot verify that this app is free from malware." If you see this notification, click Cancel.
+Instead, right-click the application's icon and select Open from the pop-up menu. You will see a new notification which now contains an Open button." (Instructions [here](https://docs.openrefine.org/manual/installing#install-or-upgrade-openrefine))
+
+(If this doesn't work, navigate to "Systems Preferences" (type "System Preferences" in Spotlight). Then go to "Security & Privacy".  Change the setting to "Allow apps downloaded from App Store and identified developers." What you'll have to do is allow your machine to open files downloaded from elsewhere than the App Store. (Apple's setting marks open-source developers as "unknown" (and unverified) if they have not paid for the $100/year [Apple Developer membership](https://developer.apple.com/support/compare-memberships/))
 
 
 ### Using OpenRefine
@@ -154,7 +160,7 @@ Let's try out OpenRefine using a real dataset.
 #### Creating an OpenRefine Project
 - Open OpenRefine
 - Click on "Create Project" (it should be the default page)
-- For the "Get Data from", select "Web Addresses (URLs)" and type in `https://raw.githubusercontent.com/sceckert/IntroDHSpring2021/main/_datasets/NYPL-Menu-Dataset/Menu.csv`. 
+- For the "Get Data from", select "Web Addresses (URLs)" and type in `https://raw.githubusercontent.com/sceckert/IntroDHSFall2022/main/_datasets/NYPL-Menu-Dataset/Menu.csv`. 
 	- As our test dataset, we're using the CSV with 19th and 20th century menu data from the NYPL's Menu Dataset Project. For more about the dataset, read the [accompanying contextual note](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/NYPL-Menu-Dataset/NYPL-Menu-Dataset-Contextual-Note.md)
 - Click "Next"
 - Check to make sure our parameters are what we expect

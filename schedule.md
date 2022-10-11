@@ -128,7 +128,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 - Read: Brian Kernighan, ["The World Wide Web,"](https://princeton.instructure.com/courses/8132/files?preview=1714222) from *D is for Digital* (2011) [Don't be intimidated by the length of the PDF -- a lot of the reading is an extended "glossary" of terms at the back]
 - Read: Jeffrey Veen,[ “A Brief History of HTML” (1997)](https://web.archive.org/web/20160312112434/https:/www.wired.com/1997/04/a-brief-history-of-html/)
-- Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md)
+- <s>Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md) </s>
 - Before practicum, read: [Preparing for Web-scraping and OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md)
 - *In-class practicum*: [Webscraping and using OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/introduction-to-webscraping-and-open-refine.md)
 	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-thu.html#/) -->
@@ -152,6 +152,7 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 - Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319164)
 - Due: [Homework 5]
+- ‼️Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md) ‼️ [RESCHEDULED DUEDATE]
 - *In-class practicum*: Writing a project proposal + [Exploratory data analysis]
 	
 ## Week 8: Cultural Analytics 
