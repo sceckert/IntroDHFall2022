@@ -122,7 +122,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Read: Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name" (2015)](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
 - Read: Jill Lepore, "The Cobweb" (2015) [Canvas PDF](https://princeton.instructure.com/courses/8132/files?preview=1617340)
 	- Mini-exercise: explore the [history of Google's home-page with the WayBack Machine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/mini-exercise-using-the-wayback-machine.md)
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-tues.html)-->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-tues.html)
 
 #### Thu 10/13 - Web-Scraping
 
