@@ -168,7 +168,7 @@ Let's try out OpenRefine using a real dataset.
 	- OpenRefine is parsing the first line as our head line
 	![image](../_images/OpenRefine-load-csv.png)
 - If everything looks good, click on the "Create Project >>" in the upper righthand corner
-- You should now see a window with your project and the 17545 rows of data (!) about menus
+- You should now see a window with your project and the 17550 rows of data (!) about menus
 
 
 OpenRefine lets us perform some operations on a dataset that we've learned to do with Python and pandas, but we can do it through a graphical user interface.
