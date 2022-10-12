@@ -160,7 +160,7 @@ Let's try out OpenRefine using a real dataset.
 #### Creating an OpenRefine Project
 - Open OpenRefine
 - Click on "Create Project" (it should be the default page)
-- For the "Get Data from", select "Web Addresses (URLs)" and type in `https://raw.githubusercontent.com/sceckert/IntroDHSFall2022/main/_datasets/NYPL-Menu-Dataset/Menu.csv`. 
+- For the "Get Data from", select "Web Addresses (URLs)" and type in `https://raw.githubusercontent.com/sceckert/IntroDHFall2022/main/_datasets/NYPL-Menu-Dataset/Menu.csv`. 
 	- As our test dataset, we're using the CSV with 19th and 20th century menu data from the NYPL's Menu Dataset Project. For more about the dataset, read the [accompanying contextual note](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/NYPL-Menu-Dataset/NYPL-Menu-Dataset-Contextual-Note.md)
 - Click "Next"
 - Check to make sure our parameters are what we expect
