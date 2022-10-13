@@ -3,10 +3,10 @@
 Table of Contents:
 
 - [Regex: how to parse and process text files)](#regex-how-to-parse-and-process-text-files)
-- [Using OpenRefine for webscraping: Advanced Tips] 
-	- [Forms of data you might get from an API]
-	- [How to handle each form of data in OpenRefine]
-- [Using Beautiful Soup for webscraping]
+- [Using OpenRefine for webscraping: Advanced Tips](#using-openrefine-for-webscraping-advanced-tips)
+	- [Forms of data you might get from an API](#forms-of-data-you-might-get-from-an-api)
+	- [How to handle each form of data in OpenRefine](#how-to-handle-each-form-of-data-in-openrefine)
+- [Using Beautiful Soup for webscraping](#using-beautiful-soup-for-webscraping)
 
 ---
 
@@ -96,7 +96,7 @@ John Little, at Duke University Libraries, has created a handy workbook on using
 https://api.genius.com/search?q=beyonce&access_token=REPLACE-THIS-TEXT-WITH-YOUR-CLIENT-ACCESS-TOKEN
 
 
-## Using Beautiful Soup for webscrapting
+## Using Beautiful Soup for webscraping
 
 Occasionally you might find that the data you're working with is too big for OpenRefine to handle. This is where Python's Beautiful Soup comes in. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library, which means we can use it within our webwrowser.
 

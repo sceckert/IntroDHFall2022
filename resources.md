@@ -48,3 +48,21 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 	- Make a simple data visualization
 -  [Python Pandas Cheat Sheet](http://localhost:8888/edit/IntroDHFall2022/_week5/python-pandas-cheat-sheet.md)
 - What is metadata? [Exploring a dataset through its metadata](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/introduction-to-metadata.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week3/introduction-to-metadata.ipynb) 
+
+
+## HTML, Web-scraping and OpenRefine
+
+- HTML & collecting data from the Web
+	- [What is HTML](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#what-is-html)
+	- [HTML and Web-scraping](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#html-and-web-scraping)
+	- Collecting data from webpages: [Application Programming Interfaces (APIs)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#application-programming-interface-apis)
+- OpenRefine
+	- [Downloading OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#openrefine)
+	- [Using OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#using-openrefine)
+		- [Filtering data](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#filtering-data)
+		- [Faceting Data](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#faceting-data)
+		- [Cleaning messy data](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#cleaning-messy-data)
+		- [Sorting data](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#sorting-data)
+- [Using OpenRefine to Web-scrape Song Lyrics from Genius](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/introduction-to-webscraping-and-open-refine.md) 
+- [Advanced tips for Web-scraping](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md)
+	
