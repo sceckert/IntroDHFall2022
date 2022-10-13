@@ -137,7 +137,7 @@ Because we know that Genius URLs for follow a standard convention, we can use th
 (![image](../_images/OpenRefine2.png)
 
 Note:
-Here, we're using a language called General Refine Expression Language to stitch together a URL: the first part "https://genius.com/albums/" is part the, `value` is a pre-sent variable -- it takes whatever value is in the starting column. We do the same thing to the `value` in the column labeled `Album`
+Here, we're using a language called General Refine Expression Language to stitch together a URL: the first part "https://genius.com/albums/" is part the, `value` is a pre-set variable -- it takes whatever value is in the starting column. We do the same thing to the `value` in the column labeled `Album`
 
 We should get something like: https://genius.com/albums/artist_name/album_name
 
