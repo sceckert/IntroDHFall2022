@@ -44,13 +44,15 @@ Create a column based on "artist" called "artist_parsed". In the window that pop
 
 `value.replaceChars("áéíóú", "aeiou").replace(/\W+/, "-")` : 
 
-This is a GREL function that takes a given string, and removes diacritics (eg accents). It also strips out all spaces and punctuation and replaces them with a hyphen [NOTE: if your string contains a diametric not included here, be sure to add it.]
+This is a GREL function that takes a given string, and removes diacritics (eg accents). We've told it to replace all non-alphanumeric characters–– that is, punctuation and spaces, everything that's not a word (the `/\W+/`) ––with a "``-``" [NOTE: if your string contains a diametric not included here, be sure to add it.]
 
 Now, create a column based on "album" called "album_parsed".In the window that pops up to create each column, we would paste the following expression 
 
 `value.replaceChars("áéíóú", "aeiou").replace(/\W+/, "-")` : 
 
 This is a regular expression that takes in the value in the column, replaces any diacritic markers, and replaces all non-alphanumeric characters (the `/\W+/`) with a "``-``". 
+
+
 
 
 ---

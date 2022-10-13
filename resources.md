@@ -65,4 +65,10 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 		- [Sorting data](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#sorting-data)
 - [Using OpenRefine to Web-scrape Song Lyrics from Genius](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/introduction-to-webscraping-and-open-refine.md) 
 - [Advanced tips for Web-scraping](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md)
-	
+
+## Data Cleaning 
+
+- [What are regular expressions](https://github.com/sceckert/IntroDHFall2022/blob/main/_resources/python-data-cleaning-scripts.ipynb)
+- Using regard expressions to clean data
+	- [in Python](https://github.com/sceckert/IntroDHFall2022/blob/main/_resources/python-data-cleaning-scripts.ipynb)
+	- [in OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md#regex-how-to-parse-and-process-text-files)
