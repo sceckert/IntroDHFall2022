@@ -38,11 +38,19 @@ Beyoncé, Beyonce, I Am...Sasha Fierce, I-Am-Sasha-Fierce
 
 If we want to preserve the formatting in our spreadsheet, but still be able to extract the artist name and album name in way we could systematically enter into a URL, we could create two new columns, "artist_parsed" and "albumn_parsed" by clicking on the original column and adding a new column based on that column.
 
-In the window that pops up to create each column, we would paste the following expression 
+First, let's create "artist_parsed", using a script that should work for other diacritics.
 
-`value.replace(/\W+/, "-")` : 
+Create a column based on "artist" called "artist_parsed". In the window that pops up to create each column, we would paste the following expression 
 
-This is a regular expression that takes in the value in the column and replaces all non-alphanumeric characters (the `/\W+/`) with a "``-``". 
+`value.replaceChars("áéíóú", "aeiou").replace(/\W+/, "-")` : 
+
+This is a GREL function that takes a given string, and removes diacritics (eg accents). It also strips out all spaces and punctuation and replaces them with a hyphen [NOTE: if your string contains a diametric not included here, be sure to add it.]
+
+Now, create a column based on "album" called "album_parsed".In the window that pops up to create each column, we would paste the following expression 
+
+`value.replaceChars("áéíóú", "aeiou").replace(/\W+/, "-")` : 
+
+This is a regular expression that takes in the value in the column, replaces any diacritic markers, and replaces all non-alphanumeric characters (the `/\W+/`) with a "``-``". 
 
 
 ---
