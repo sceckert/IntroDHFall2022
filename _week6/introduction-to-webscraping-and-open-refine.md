@@ -69,7 +69,7 @@ And it can be REALLY handy for collecting data that is stored in webpages.
 
 ## Case Study: Web-scraping Song Lyrics from Genius
 
-![image](../images/pusheen-dj.png)
+![image](../_images/pusheen-dj.png)
 
 
 
@@ -111,7 +111,7 @@ Beyonce, Beyonce
 
 3. Click "Create Project" 
 
-![image](../images/OpenRefine0.png ) 
+![image](../_images/OpenRefine0.png ) 
 
 
 
@@ -123,7 +123,7 @@ Because we know that Genius URLs for follow a standard convention, we can use th
 
 4. Click on the triangle in the "artist" column, and select "Edit column" and then, "Add column based on this colum..." 
 
-![image](../images/OpenRefine1.png) 
+![image](../_images/OpenRefine1.png) 
 
 
 
@@ -134,7 +134,7 @@ Because we know that Genius URLs for follow a standard convention, we can use th
   </code></pre>
 </section>
 
-(![image](../images/OpenRefine2.png)
+(![image](../_images/OpenRefine2.png)
 
 Note:
 Here, we're using a language called General Refine Expression Language to stitch together a URL: the first part "https://genius.com/albums/" is part the, `value` is a pre-sent variable -- it takes whatever value is in the starting column. We do the same thing to the `value` in the column labeled `Album`
@@ -154,12 +154,12 @@ We should get something like: https://genius.com/albums/artist_name/album_name
   </code></pre>
 </section>
 
-![image](../images/OpenRefine3.png)
+![image](../_images/OpenRefine3.png)
 
 
 
 But we're not quite done!  In order to download webpages from the Genius API, we need to enter our secret Client Access Token
-![image](../images/OpenRefine4.png)
+![image](../_images/OpenRefine4.png)
 
 
 
@@ -230,7 +230,7 @@ Now that we know what elements we're looking for, we're going to add a new colum
   </code></pre>
 </section>
 
-![image](../images/OpenRefine5.png)
+![image](../_images/OpenRefine5.png)
 
 Note:
 This is JSoup, a bit of Javascript code that allows us to parse the HTML text, select a specific element, here `div.metadata_unit`, select the first appearance, and run the operation .htmlText() which strips away all the HTML Tags
@@ -247,7 +247,7 @@ Now let's extract the song titles:
   </code></pre>
 </section>
 
-![image](../images/OpenRefine5a.png)
+![image](../_images/OpenRefine5a.png)
 
 Note:
 This is JSoup, a bit of Javascript code that allows us to parse the HTML text, select a specific element, here `h3.chart_row-content-title"`. Unlike with the release date, we don't just want the first appearance of this tag, so we enclose it all in a Java for loop and loop it. We then `join` the entries together with a delimiter, `|||`. 
@@ -264,7 +264,7 @@ Now let's extract the URLs links to the song lyrics pages:
   </code></pre>
 </section>
 
-![image](../images/OpenRefine5b.png)
+![image](../_images/OpenRefine5b.png)
 
 Note:
 This is JSoup, a bit of Javascript code that allows us to parse the HTML text, select a specific element, here `a[href].u-display_block"`. As above, we don't just want the first appearance of this tag, so we enclose it all in a Java for loop and loop it. We then `join` the entries together with a delimiter, `|||`. 
@@ -281,7 +281,7 @@ First, let's get rid of the album HTML column, since we no longer need it.
 
 You should now see something like this:
 
-![image](../images/OpenRefine6.png)
+![image](../_images/OpenRefine6.png)
 
 Note:
 Notice all of those `|||`s? We can use them as delimiters to split up our data so each song is on its own row.
@@ -294,10 +294,10 @@ We can split up our data so each song is on its own row:
 
 14. Click on the triangle in the "song_titles" column, and select "Edit cells" and then, "Split multi-valued cells..."
 
-![image](../images/OpenRefine7.png)
+![image](../_images/OpenRefine7.png)
 
 15. Then, in the window that pops up, enter `|||` as the separator. 
-![image](../images/OpenRefine8.png)
+![image](../_images/OpenRefine8.png)
 
 
 
@@ -312,7 +312,7 @@ Now, let's make sure that the metadata is copied over to these new rows:
 
 18. Click on the triangle in the column "artist" and select "Edit cells" and then "Fill down"
 19. Repeat this step for "album," "album_tracklist_url", and "release_date"
-![image](../images/OpenRefine9.png)
+![image](../_images/OpenRefine9.png)
 
 What happened? 
 
@@ -333,7 +333,7 @@ Ok, now we're finally ready to make the last step to get the lyrics from our son
   </code></pre>
 </section>
 
-![image](../images/OpenRefine10.png)
+![image](../_images/OpenRefine10.png)
 
 Note: This is the longest process, it takes about 4-6 minutes. While we wait, let's look at a sample HTML source code to try and find the lyrics. Open up a new window in your browser.
 
@@ -376,7 +376,7 @@ Now we're going to extract the lyrics from this soup of HTML:
   </code></pre>
 </section>
 
-![image](../images/OpenRefine10a.png)
+![image](../_images/OpenRefine10a.png)
 
 
 
@@ -387,13 +387,13 @@ First, let's get rid of the song_lyrics_html, since we don't need it anymore, an
 16. Click on the triangle in the column "song_lyrics_html" select "Edit column" and then, "Remove this column" 
 17. If we wanted to, we could reorder columns by clicking on the triangle by "All", selecting "Edit columns" and then, "Re-order/Remove columns"
 
-![image](../images/OpenRefine11.png)
+![image](../_images/OpenRefine11.png)
 
 
 
 ### CONGRATULATIONS!!!!! You did it!
 
-### ![image](../images/pusheen-party.gif)
+### ![image](../_images/pusheen-party.gif)
 
 Note:
 OpenRefine keeps a running record of every action you take, and allows you to step back to the first step of the project
