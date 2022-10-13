@@ -131,7 +131,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - <s>Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md) </s>
 - Before practicum, read: [Preparing for Web-scraping and OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md)
 - *In-class practicum*: [Webscraping and using OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/introduction-to-webscraping-and-open-refine.md)
-	<!-- - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-thu.html#/) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk6-thu.html#/)
 
 ## FALL RECESS
 
