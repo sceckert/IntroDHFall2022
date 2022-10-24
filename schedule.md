@@ -151,9 +151,9 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 
 - Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319164)
-- Due: [Homework 5]
+- Due: [Homework 5](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/homework-5.md))
 - ‼️Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md) ‼️ [RESCHEDULED DUEDATE]
-- *In-class practicum*: Writing a project proposal + [Exploratory data analysis]
+- *In-class practicum*:  [Exploratory data analysis] + Writing a project proposal 
 	
 ## Week 8: Cultural Analytics 
 
