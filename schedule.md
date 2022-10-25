@@ -146,6 +146,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James 
 Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319160)
 - Read: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319155)
+- Optional reading: Shannon Mattern, ["Library as Infrastructure"](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1#0) (2014)
 
 #### Thu 10/27 - Who is Data for?
 
