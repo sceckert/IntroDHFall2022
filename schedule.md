@@ -147,6 +147,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319160)
 - Read: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319155)
 - Optional reading: Ed Folsom ["Database as Genre: The Epic Transformation of Archives"](https://www-jstor-org.ezproxy.princeton.edu/stable/25501803) (2007)
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk7-tues.html#/)
 
 #### Thu 10/27 - Who is Data for?
 
@@ -154,7 +155,7 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319164)
 - Due: [Homework 5](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/homework-5.md)
 - ‼️Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md) ‼️ [RESCHEDULED DUEDATE]
-- *In-class practicum*:  [Exploratory data analysis] + Writing a project proposal 
+- *In-class practicum*:  [Exploratory data analysis](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) + Writing a project proposal 
 	
 ## Week 8: Cultural Analytics 
 
