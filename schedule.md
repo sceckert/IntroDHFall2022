@@ -155,7 +155,7 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319164)
 - Due: [Homework 5](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/homework-5.md)
 - ‼️Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/dh-project-critique-assignment.md) ‼️ [RESCHEDULED DUEDATE]
-- *In-class practicum*:  [Exploratory data analysis](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) + Writing a project proposal 
+- *In-class practicum*:  [Exploratory data analysis](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)] + Writing a project proposal 
 	
 ## Week 8: Cultural Analytics 
 
