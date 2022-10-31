@@ -160,13 +160,13 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 ## Week 8: Cultural Analytics 
 
 #### Tue 11/1 - Distant Reading
-‼️ NOTE: Dr. Eckert is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
 
 - Read; Ted Underwood, "Preface," Distant Horizons: Digital Evidence and Literary 
 Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319167)
 - Read: Ted Underwood, "Chapter 2: The Life Spans of Genres," Distant Horizons (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319170)
 
 #### Thu 11/3 - Distant Reading
+‼️ NOTE: Dr. Eckert is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
 
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319169)
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/8132/modules/items/319151), especially pages 113-120.
