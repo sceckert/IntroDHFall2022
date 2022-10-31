@@ -67,7 +67,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 #### Thu 9/29 - "Rehumanizing"" Data
 
-‼️ NOTE: Dr. Ecket is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
+‼️ NOTE: Dr. Eckert is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 - Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)   [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)]
@@ -160,6 +160,7 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 ## Week 8: Cultural Analytics 
 
 #### Tue 11/1 - Distant Reading
+‼️ NOTE: Dr. Eckert is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
 
 - Read; Ted Underwood, "Preface," Distant Horizons: Digital Evidence and Literary 
 Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319167)
@@ -169,8 +170,8 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/module
 
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319169)
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/8132/modules/items/319151), especially pages 113-120.
-- Due: [Homework 6]
-- *In-class practicum*: [Text analysis and intro to git]
+- Due: [Homework 6](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week8/homework-6.md)
+- *In-class practicum*: [Text analysis and intro to git](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week8/introduction-to-git-and-github.md)
 	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)-->
 
 
