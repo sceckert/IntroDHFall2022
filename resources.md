@@ -46,8 +46,11 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
    	- Using Pandas to analyze data
 	-  Finding out more about our dataset using Pandas
 	- Make a simple data visualization
--  [Python Pandas Cheat Sheet](http://localhost:8888/edit/IntroDHFall2022/_week5/python-pandas-cheat-sheet.md)
+-  [Python Pandas Cheat Sheet](https://github.com/sceckert//IntroDHFall2022/_week5/python-pandas-cheat-sheet.md)
 - What is metadata? [Exploring a dataset through its metadata](https://github.com/sceckert/IntroDHFall2022/blob/main/_week3/introduction-to-metadata.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week3/introduction-to-metadata.ipynb) 
+- Hunches, Hypotheses, and Exploratory Data Analysis with Pandas
+	- [Part I: Homework 5](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/homework-5.md)
+	- [Part II](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
 
 
 ## HTML, Web-scraping and OpenRefine
