@@ -165,7 +165,7 @@ Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/8132/mo
 Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319167)
 - Read: Ted Underwood, "Chapter 2: The Life Spans of Genres," Distant Horizons (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319170)
 - Optional reading: Ted Underwood, ["Appendices A & B: Data and Methods""](https://princeton.instructure.com/courses/8132/files?preview=1617347)
-	 - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk8-tues.html)
+	 - [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk8-tues.html)
 
 #### Thu 11/3 - Distant Reading
 ‼️ NOTE: Dr. Eckert is traveling for conference - [class meeting on ZOOM](https://princeton.instructure.com/courses/8132/external_tools/1960) ‼️
@@ -176,7 +176,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/module
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/8132/modules/items/319151), especially pages 113-120.
 - Due: [Homework 6](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/homework-6.md)
 - *In-class practicum*: [Text analysis and intro to git](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week8/introduction-to-git-and-github.md)
-	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)-->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk8-thu.html)
 
 
 ## Week 9: Text Analysis
@@ -188,7 +188,7 @@ Election Day - GO VOTE!
 - Read 3 very short pieces on data-driven methods method:
 	- Lincoln Mullen, ["Isn't It Obvious?" (2018)](https://lincolnmullen.com/blog/isnt-it-obvious/)
 	- Matthew Lincoln, ["Confabulation in the Humanities"(2015)](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
-	- Scott Weingart ["Argument Clinic" (2017)](https://scottbot.net/argument-clinic/)
+	- Scott Weingart ["Argument Clinic" (2017)](https://web.archive.org/web/20210413085718/https://scottbot.net/argument-clinic/)
 - Optional reading: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 
 #### Thu 11/10 - Topic Modeling
