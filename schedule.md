@@ -176,7 +176,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/8132/module
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/8132/modules/items/319151), especially pages 113-120.
 - Due: [Homework 6](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/homework-6.md)
 - *In-class practicum*: [Text analysis and intro to git](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week8/introduction-to-git-and-github.md)
-	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk8-thu.html)
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk8-thu.html)
 
 
 ## Week 9: Text Analysis
@@ -190,11 +190,13 @@ Election Day - GO VOTE!
 	- Matthew Lincoln, ["Confabulation in the Humanities"(2015)](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
 	- Scott Weingart ["Argument Clinic" (2017)](https://web.archive.org/web/20210413085718/https://scottbot.net/argument-clinic/)
 - Optional reading: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk9-tues.html)
 
 #### Thu 11/10 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
-- Due: Final Project Proposal
-- *In-class practicum*: [Topic modeling with MALLET]
+- Due: [Final Project Proposal](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-proposal-assignment.md)
+- [Read through the following set-up instructions](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/topic-modeling-set-up-instructions.md)
+- *In-class practicum*: [Topic modeling with MALLET](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/introduction-to-topic-modeling.ipynb). [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
 
 ## Week 10: Data Visualization & Network Analysis
 
