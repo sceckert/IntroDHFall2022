@@ -195,7 +195,7 @@ Election Day - GO VOTE!
 #### Thu 11/10 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
 - Due: [Final Project Proposal](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-proposal-assignment.md)
-- [Read through the following set-up instructions](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/topic-modeling-set-up-instructions.md)
+- [Read through this short set of topic modeling set-up instructions](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/topic-modeling-set-up-instructions.md)
 - *In-class practicum*: [Topic modeling with MALLET](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/introduction-to-topic-modeling.ipynb). [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
 
 ## Week 10: Data Visualization & Network Analysis
