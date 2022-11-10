@@ -51,7 +51,22 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 - Hunches, Hypotheses, and Exploratory Data Analysis with Pandas
 	- [Part I: Homework 5](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/homework-5.md)
 	- [Part II](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
+- Topic modeling
+	- [In-browser topic modeling tool](https://mimno.infosci.cornell.edu/jsLDA/)
+		- Reminder: the browser-based topic modeling tool is a little clunky. To use it on more than one text, you'll have to format your corpus in a very particular way. Instead of uploading a directory of text files, you'll have to concatenate all your documents into a single text file, where each line consists of a document
+	- Topic Modeling in Python
+	- Topic Modeling [set-up instructions](https://github.com/sceckert/IntroDHFall2022/blob/main/_week9/topic-modeling-set-up-instructions.md)
+	- [Introduction to Topic Modeling](https://github.com/sceckert/IntroDHFall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb) in Python [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
 
+## Text Analysis
+
+- In Python
+	- [Counting word frequencies](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)
+	-  [Homework 6: Introduction to Text Analysis](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/homework-6.md)
+- Outside of Python
+	- Using the command line to find [keywords in collections of texts](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/in-class-exercises.md)
+		- [Command line cheat sheet](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/command-line-cheat-sheet.md)
+	- [Introduction to Voyant](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/Text-Analysis-Introduction-to-Voyant-and-Topic-Modeling-Tutorial.pdf)
 
 ## HTML, Web-scraping and OpenRefine
 
@@ -59,6 +74,7 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 	- [What is HTML](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#what-is-html)
 	- [HTML and Web-scraping](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#html-and-web-scraping)
 	- Collecting data from webpages: [Application Programming Interfaces (APIs)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#application-programming-interface-apis)
+	- [Using `w-get` to download files](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/using-wget.md)
 - OpenRefine
 	- [Downloading OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#openrefine)
 	- [Using OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#using-openrefine)
@@ -76,6 +92,6 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 	- [in Python](https://github.com/sceckert/IntroDHFall2022/blob/main/_resources/python-data-cleaning-scripts.ipynb)
 	- [in OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md#regex-how-to-parse-and-process-text-files)
 
-## Collaboration
+## Collaboration, Git, and GitHub
 
-- Introduction to Git and GitHub
+- [Introduction to Git and GitHub](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/introduction-to-git-and-github.md)
