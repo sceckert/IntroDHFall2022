@@ -75,3 +75,7 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 - Using regard expressions to clean data
 	- [in Python](https://github.com/sceckert/IntroDHFall2022/blob/main/_resources/python-data-cleaning-scripts.ipynb)
 	- [in OpenRefine](https://github.com/sceckert/IntroDHFall2022/blob/main/_week6/advanced-tips-for-webscraping.md#regex-how-to-parse-and-process-text-files)
+
+## Collaboration
+
+- Introduction to Git and GitHub
