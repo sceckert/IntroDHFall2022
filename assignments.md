@@ -61,6 +61,6 @@ I'll ask that you write three 2-3-page (double-spaced) reflection papers. These 
 
 Working in **pairs**, you will complete a final project centered around a cultural dataset of your choosing (I will provide some starting points). This final project is designed to give you the opportunity to practice your skills in designing and planning an exploratory analysis of a cultural dataset that draws on course readings and theoretical questions around data and your your practical skills in data collection and analysis.
 
--  You will be graded 15% based on a jointly written project proposal
+-  You will be graded 15% based on a [jointly written project proposal](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-proposal-assignment.md)
 - 10% will come from  percent based on your presentation of your project
 - 10 % will come from a 4-5 page an individual paper that you write reflecting on your project.
