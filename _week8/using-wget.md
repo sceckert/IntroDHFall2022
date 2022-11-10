@@ -10,4 +10,4 @@ In order to use `wget`, you'll need to install it:
 
 1. Follow the instructions in Step One of Ian Milligan's "Automated Downloading with Wget" tutorial
 	- The tutorial instructions on how to download the `wget` command for Windows or Mac (if you're on a Mac, I recommend downloading via Homebrew)
-2. Once you've downloaded `wget`, test that you have it running by entering the following command in your command line: `wget https://raw.githubusercontent.com/sceckert/IntroDHSpring2021/main/_week7/exploratory-data-analysis-with-pandas.ipynb` (this will download a copy of the Jupyter notebook from last class to your local machine)
+2. Once you've downloaded `wget`, test that you have it running by entering the following command in your command line: `wget https://raw.githubusercontent.com/sceckert/IntroDHFall2022/main/_week7/exploratory-data-analysis-with-pandas.ipynb` (this will download a copy of the Jupyter notebook from last class to your local machine)
