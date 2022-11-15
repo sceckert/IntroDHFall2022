@@ -207,7 +207,7 @@ Election Day - GO VOTE!
 - Skim through: Crystal Lee, Tanya Yang, Gabrielle Inchoco, Graham Jones, and Arvind Satyanarayan ["Viral Visualizations:How Coronavirus Skeptics Use OrthodoxData Practices to Promote Unorthodox Science Online" (2021)](https://princeton.instructure.com/courses/8132/modules/items/319161) 
 - Read: Georgia Luipi, [“Data Humanism: The Revolutionary Future of Data Visualization”
 (2017)](https://www.printmag.com/post/data-humanism-future-of-data-visualization)
-	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-tues.md) -->
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk10-tues.html) 
 
 #### Thu 11/17 - Networks
 - Read: Scott Weingart, ["Demystifying Networks" (2011)](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
