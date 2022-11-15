@@ -1,6 +1,6 @@
 # Close Reading a Data Visualization
 
-In this assignment, you'll perform a short "close reading" of a single data visualization. Your goal is to pay careful attention to the particular choices made in the visualization: how it's put together, and the kind of arguments it is used to make. As a part of this assignment, you'll "cite" the graph by including the image at the top of your document. Your job is to notice even the slightest details about the graph––don't assume that just because you've included the document that a reader or viewer will notice the same things as you.
+In this assignment, you'll perform a short "close reading" of [a single data visualization that appears in one of the readings listed below](#Choose-a-data-visualization-from-one-of-the following-works). Your goal is to pay careful attention to the particular choices made in the visualization: how it's put together, and the kind of arguments it is used to make. As a part of this assignment, you'll "cite" the graph by including the image at the top of your document. Your job is to notice even the slightest details about the graph––don't assume that just because you've included the document that a reader or viewer will notice the same things as you.
 
 Questions your close reading should address:
 
@@ -13,7 +13,7 @@ Questions your close reading should address:
 - Based on what you've noticed in your reading, what's an argument that you might make *about* this graph? 
 
 
-A list of work's we've read with data visualizations you might choose:
+### Choose a data visualization from one of the following works:
 
 - Daniel Rosenberg, “Data before the Fact” in “Raw Data” is an Oxymoron (2013)
 - Catherine D’Ignazio and Lauren Klein, Data Feminism, Chapter 4: “What Gets Counted Counts” (2018) [Note that many of the data visualizations that they cite in this article come from other sources––you'll want to make a choice about whether you're using their citation of the graph, or the way the visualization was originally used]
