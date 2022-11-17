@@ -69,8 +69,8 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 - In Python
 	- [Counting word frequencies](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)
 	-  [Homework 6: Introduction to Text Analysis](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/homework-6.md)
-	-  [Introduction to Topic Modeling](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
-	- (Make sure you've completed the [topic modeling set up instructions](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/topic-modeling-set-up-instructions.md))
+	-  [Introduction to Topic Modeling](https://github.com/sceckert/IntroDHfall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
+	- (Make sure you've completed the [topic modeling set up instructions](https://github.com/sceckert/IntroDHfall2022/blob/main/_week9/topic-modeling-set-up-instructions.md))
 	- Programming Historian Tutorials
 		- Matthew Lavin,[ "Analyzing Documents with tf-idf"](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf) (2019)
 		- Zoë Wilkinson Saldaña, ["Sentiment Analysis for Exploratory Data Analysis"](https://programminghistorian.org/en/lessons/sentiment-analysis) (2018)
