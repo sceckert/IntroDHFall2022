@@ -213,8 +213,8 @@ Election Day - GO VOTE!
 - Read: Scott Weingart, ["Demystifying Networks" (2011)](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/close-reading-data-visualization-assignment.md) 
-- *In-class practicum*: Maps and visualization: Working with matplot + Altair
-	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md) -->
+- *In-class practicum*: visualization: Working with [Altair](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week10/introduction-to-data-visualization-in-altair.ipynb), [mapping](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week10/mapping.ipynb), [networks](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week10/network-analysis.ipynb), and topic model time series]
+	- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk10-thu.md)
 
 ## THANKSGIVING BREAK
 
