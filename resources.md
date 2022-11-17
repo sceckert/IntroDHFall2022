@@ -69,7 +69,7 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 - In Python
 	- [Counting word frequencies](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python.ipynb)
 	-  [Homework 6: Introduction to Text Analysis](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/homework-6.md)
-	-  [Introduction to Topic Modeling](https://github.com/sceckert/IntroDHfall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
+	-  [Introduction to Topic Modeling](https://github.com/sceckert/IntroDHfall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb)  [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb)
 	- (Make sure you've completed the [topic modeling set up instructions](https://github.com/sceckert/IntroDHfall2022/blob/main/_week9/topic-modeling-set-up-instructions.md))
 	- Programming Historian Tutorials
 		- Matthew Lavin,[ "Analyzing Documents with tf-idf"](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf) (2019)
@@ -116,19 +116,19 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 ## Data Visualization
 
 - In Python:
-	- [Introduction to Python (Continued)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python-continued.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week4/introduction-to-python-continued.ipynb) 
+	- [Introduction to Python (Continued)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python-continued.ipynb)  [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week4/introduction-to-python-continued.ipynb) 
 		- Making a simple data visualization
-	- [Introduction to Python: Pandas](https://github.com/sceckert/IntroDHFall2022/blob/main/_week5/python-continued.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week5/python-continued.ipynb)
+	- [Introduction to Python: Pandas](https://github.com/sceckert/IntroDHFall2022/blob/main/_week5/python-continued.ipynb)  [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week5/python-continued.ipynb)
 		- Making simple bar and pie charts using pandas data
 	- Hunches, Hypotheses, and Exploratory Data Analysis with Pandas
-		- [Making simple scatter plots (3 examples)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
+		- [Making simple scatter plots (3 examples)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
 		- Making more complex static scatter plots (scroll down to bottom)
-		- [Making an interactive scatter plot using Altair](https://github.com/sceckert/IntroDHfall2022/blob/main/_week10/introduction-to-data-visualization-in-altair.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week10/introduction-to-data-visualization-in-altair.ipynb)
+		- [Making an interactive scatter plot using Altair](https://github.com/sceckert/IntroDHfall2022/blob/main/_week10/introduction-to-data-visualization-in-altair.ipynb) [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week10/introduction-to-data-visualization-in-altair.ipynb)
 	- Introduction to Topic Modeling, visualizing topic models
-		- [Making a heat map to visualize topics in a set of texts](https://github.com/sceckert/IntroDHFall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb) (Scroll down to the bottom)
+		- [Making a heat map to visualize topics in a set of texts](https://github.com/sceckert/IntroDHFall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb) [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb) (Scroll down to the bottom)
 		- [Making a time series to plot TWEETS over time](https://github.com/sceckert/IntroDHFall2022/blob/main/_week10/topic-modeling-time-series.ipynb) [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week10/topic-modeling-time-series.ipynb)
-	-  [Mapping](https://github.com/sceckert/IntroDHfall2022/blob/main/_week10/mapping.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week10/mapping.ipynb)
-	- [Network Analysis](https://github.com/sceckert/IntroDHfall2022/blob/main/_week10/network-analysis.ipynb)  | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week10/network-analysis.ipynb)
+	-  [Mapping](https://github.com/sceckert/IntroDHfall2022/blob/main/_week10/mapping.ipynb)  [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week10/mapping.ipynb)
+	- [Network Analysis](https://github.com/sceckert/IntroDHfall2022/blob/main/_week10/network-analysis.ipynb)   [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhfall2022/main?urlpath=lab/tree/_week10/network-analysis.ipynb)
 - Other data visualization resources:
 	- [WTFcsv](https://databasic.io/en/wtfcsv/#upload) : a simple, browser-based tool that gives you descriptive statistics on your spreadsheet data
 	- [Voyant Tools](https://voyant-tools.org/)
