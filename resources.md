@@ -66,7 +66,10 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 - Outside of Python
 	- Using the command line to find [keywords in collections of texts](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/in-class-exercises.md)
 		- [Command line cheat sheet](https://github.com/sceckert/IntroDHFall2022/blob/main/_week2/command-line-cheat-sheet.md)
-	- [Introduction to Voyant](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/Text-Analysis-Introduction-to-Voyant-and-Topic-Modeling-Tutorial.pdf)
+	- [Voyant Tools](https://voyant-tools.org/)
+		- [Introduction to Voyant](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/Text-Analysis-Introduction-to-Voyant-and-Topic-Modeling-Tutorial.pdf)
+		- Example of Voyant Tools [session with our US Inaugural Addresses dataset](https://voyant-tools.org/?corpus=bfc9629dabe7232ece555ec086037665)
+	- [WordCounter](https://databasic.io/en/wordcounter/): a simple, browser-based tool for word frequency analysis
 
 ## HTML, Web-scraping and OpenRefine
 
@@ -95,3 +98,25 @@ Please follow [this link](https://princeton.instructure.com/courses/8132/pages/c
 ## Collaboration, Git, and GitHub
 
 - [Introduction to Git and GitHub](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/introduction-to-git-and-github.md)
+
+## Data Visualization
+
+- Python and pandas in class practicums and homework with VISUALIZATIONS:
+	- [Introduction to Python (Continued)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week4/introduction-to-python-continued.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week4/introduction-to-python-continued.ipynb) 
+		- Making a simple data visualization
+	- [Introduction to Python: Pandas](https://github.com/sceckert/IntroDHFall2022/blob/main/_week5/python-continued.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week5/python-continued.ipynb)
+		- Making simple bar and pie charts using pandas data
+	- Hunches, Hypotheses, and Exploratory Data Analysis with Pandas
+		- [Making simple scatter plots (3 examples)](https://github.com/sceckert/IntroDHFall2022/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week7/exploratory-data-analysis-with-pandas.ipynb)
+		- Making more complex static scatter plots (scroll down to bottom)
+		- Making an interactive scatter plot using Altair
+	- Introduction to Topic Modeling, visualizing topic models
+		- [Making a heat map to visualize topics in a set of texts](https://github.com/sceckert/IntroDHFall2022/blob/main/_week9/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb) (Scroll down to the bottom)
+		- [Making a time series to plot TWEETS over time](https://github.com/sceckert/IntroDHFall2022/blob/main/_week10/topic-modeling-time-series.ipynb) [[interactive version]](https://mybinder.org/v2/gh/sceckert/introdhFall2022/main?urlpath=lab/tree/_week10/topic-modeling-time-series.ipynb)
+- Other data visualization resources
+	- [WTFcsv](https://databasic.io/en/wtfcsv/#upload) : a simple, browser-based tool that gives you descriptive statistics on your spreadsheet data
+	- [Voyant Tools](https://voyant-tools.org/)
+		- [Voyant Tutorial](https://github.com/sceckert/IntroDHFall2022/blob/main/_week8/Text-Analysis-Introduction-to-Voyant-and-Topic-Modeling-Tutorial.pdf)
+	- [WordCounter](https://databasic.io/en/wordcounter/): a simple, browser-based tool for word frequency analysis
+	- [Palladio](https://hdlab.stanford.edu/palladio/): an open source, browser-based data visualization tool for exploring and visualizing tabular data
+ 		- Matthew Lincoln's [introduction to Palladio](https://(matthewlincoln.net/mapping-knoedler-palladio/) tutorial
