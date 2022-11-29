@@ -227,13 +227,14 @@ Election Day - GO VOTE!
 #### Tue 11/29 - DH and global information infrastructures
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319159)
 - Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
-<!--- Link: [Final Project Resources](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
-	<!--- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-tues.md) -->
+	<- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk11-tues.md)
  
 #### Thu 12/1 - Sustainable DH? Glitches, Hacks, and Digital Ecologies
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/8132/modules/items/319154)
 - Read: Kashmir Hill, ["How an internet mapping glitch turned a random Kansas farm into a digital hell" (2016)](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)
-- *In-class practicum*: Keep working on projects. Review your data preservation plan
+- *In-class practicum*: Keep working on projects! Review your proposal timeline
+	- [Guidelines for project presentations](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-presentations.md)
+	- [Guidelines for final project](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-assignment-prompt.md)
 <!--- [REVIEW: Final project resources document](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
 	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-thu.md) -->
 
@@ -244,10 +245,9 @@ Election Day - GO VOTE!
 #### Tues 12/6
 
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
-- Due: Presentation of final projects
-	- [Guidelines for presentations]
-	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) -->
-<!--	- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) --> 
+	- [Guidelines for project presentations](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-presentations.md)
+	- [Guidelines for final project](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-assignment-prompt.md)
+<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) --> 
 
 #### Thu 12/8
 
@@ -257,4 +257,4 @@ Election Day - GO VOTE!
 
 #### Friday 12/16  - [Final Project Reflection Paper] (4-5 pages) DUE
 
-<!-- - [Guidelines for final papers](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-papers.md) -->
+- [Guidelines for final papers](https://github.com/sceckert/IntroDHFall20221/blob/main/_assignments/final-project-papers.md) 
