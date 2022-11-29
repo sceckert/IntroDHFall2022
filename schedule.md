@@ -227,7 +227,7 @@ Election Day - GO VOTE!
 #### Tue 11/29 - DH and global information infrastructures
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF](https://princeton.instructure.com/courses/8132/modules/items/319159)
 - Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
-	<- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk11-tues.md)
+	<- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-F22-wk11-tues.md)
  
 #### Thu 12/1 - Sustainable DH? Glitches, Hacks, and Digital Ecologies
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/8132/modules/items/319154)
