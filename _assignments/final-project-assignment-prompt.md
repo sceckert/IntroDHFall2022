@@ -1,6 +1,6 @@
 # Final Project
 
-+ Proposal due: **Wednesday April 6**
++ Proposal due: **Thursday November 10**
 + Presentation of current final project work:  **Week of December 6 and 8th**
 + Final project reflection paper turned in: **Dean's Date - Friday December 16**
 
