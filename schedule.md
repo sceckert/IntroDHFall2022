@@ -235,8 +235,7 @@ Election Day - GO VOTE!
 - *In-class practicum*: Keep working on projects! Review your proposal timeline
 	- [Guidelines for project presentations](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-presentations.md)
 	- [Guidelines for final project](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-assignment-prompt.md)
-<!--- [REVIEW: Final project resources document](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md) -->
-	<!-- - [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-thu.md) -->
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk11-thu.md)
 
 
 ## Week 12: The Futures of Digital Humanities 
@@ -246,8 +245,8 @@ Election Day - GO VOTE!
 
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
 	- [Guidelines for project presentations](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-presentations.md)
-	- [Guidelines for final project](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-assignment-prompt.md)
-<!--- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md) --> 
+	- [Guidelines for final project and final papers](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-assignment-prompt.md)
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-F22-wk12-tues.md) 
 
 #### Thu 12/8
 
@@ -257,4 +256,4 @@ Election Day - GO VOTE!
 
 #### Friday 12/16  - [Final Project Reflection Paper] (4-5 pages) DUE
 
-- [Guidelines for final papers](https://github.com/sceckert/IntroDHFall20221/blob/main/_assignments/final-project-papers.md) 
+- [Guidelines for final papers](https://github.com/sceckert/IntroDHFall2022/blob/main/_assignments/final-project-assignment-prompt.md) 
